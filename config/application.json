@@ -1,0 +1,13 @@
+{
+    "application": {
+        "description": "PyPro | Pinto's Python Project Manager", 
+        "creation": "2014-10-24 09:42:43.220590", 
+        "name": "pypro", 
+        "author": "Marco Antonio Pinto-Orellan"
+    }, 
+    "executable": {
+        "name": "project", 
+        "qt_toolkit": "pyside", 
+        "icon": ""
+    }
+}
